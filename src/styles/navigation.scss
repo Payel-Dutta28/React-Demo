@@ -1,0 +1,14 @@
+.header {
+  height: 250px;
+  background-color: #4dacd9; /* For browsers that do not support gradients */
+  background-image: linear-gradient(
+    to right,
+    #4dacd9,
+    #204fbe
+  ); /* Standard syntax (must be last) */
+
+  .lbl {
+    color: white;
+    margin-right: 5em;
+  }
+}
